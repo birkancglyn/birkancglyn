@@ -18,5 +18,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birkancglyn&" alt="birkancglyn" /></p>
 
 
-#### My contribution graph get eaten by the snake 🐍:
+
 ![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
