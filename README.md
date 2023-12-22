@@ -1,6 +1,6 @@
-[![MasterHead](https://gonullu.pardus.org.tr/wp-content/uploads/2021/12/linux-terminal.png)
+![MasterHead](https://gonullu.pardus.org.tr/wp-content/uploads/2021/12/linux-terminal.png)
 <h1 align="center">Hi 👋, I'm Birkan Çağlayan</h1>
-<h3 align="center">A Passionate Frontend Developer & UI/UX Designer From Turkey</h3>
+<h3 align="center">A Passionate Jr. Frontend Developer & UI/UX Designer From Turkey</h3>
 
 - 📫 How to reach me **birkancglyn@gmail.com**
 
